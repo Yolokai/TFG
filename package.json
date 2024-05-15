@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@joint/core": "^4.0.1",
+    "backbone": "^1.6.0",
+    "bpmn-auto-layout": "^0.5.0",
+    "bpmn-js": "^17.3.0",
+    "bpmn-moddle-auto-layout": "^1.0.1",
+    "flowchart": "^1.2.0",
+    "git": "^0.1.5",
+    "lodash": "^4.17.21",
+    "mermaid": "^10.9.0",
+    "node": "^21.7.1",
+    "plantuml": "^0.0.2",
+    "plantuml-parser": "^0.4.0",
+    "yarn": "^1.22.22"
+  }
+}
